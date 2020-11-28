@@ -3,3 +3,7 @@
 2）一个线程在访问一个对象的同步方法时，另一个线程不能同时访问这个同步方法。
 3）一个线程在访问一个对象的同步方法时，另一个线程不能同时访问这个对象的其他同步方法。
 
+
+Spring Boot扩展机制：图文深入分析Spring Factories机制
+
+https://blog.csdn.net/lldouble/article/details/80690446?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.not_use_machine_learn_pai
